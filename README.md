@@ -6,4 +6,4 @@
 
 - I am not a professional Competitive Programme, consider this as my self developement program.
 
-<h3 href="https://codeforces.com/profile/796Anuj19">Click here to see my Codeforces Account</h3>
+Click Here To See My Codeforces Profile -> [796Anuj19](https://codeforces.com/profile/796Anuj19)
